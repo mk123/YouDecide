@@ -1,0 +1,74 @@
+[
+  {
+    "statement": "Your favorite OS?\n",
+    "options": [
+      "mac\n",
+      "window\n",
+      "ubuntu\n"
+    ]
+  },
+  {
+    "statement": "Your favorite fruit?\n",
+    "options": [
+      "apple\n",
+      "mango\n",
+      "orange\n",
+      "grapes\n"
+    ]
+  },
+  {
+    "statement": "Your favorite singer?\n",
+    "options": [
+      "Taylor Swift\n",
+      "Eminem\n"
+    ]
+  },
+  {
+    "statement": "Your favorite OS?\n",
+    "options": [
+      "mac\n",
+      "window\n",
+      "ubuntu\n"
+    ]
+  },
+  {
+    "statement": "Your favorite fruit?\n",
+    "options": [
+      "apple\n",
+      "mango\n",
+      "orange\n",
+      "grapes\n"
+    ]
+  },
+  {
+    "statement": "Your favorite singer?\n",
+    "options": [
+      "Taylor Swift\n",
+      "Eminem\n"
+    ]
+  },
+  {
+    "statement": "Your favorite OS?\n",
+    "options": [
+      "mac\n",
+      "window\n",
+      "ubuntu\n"
+    ]
+  },
+  {
+    "statement": "Your favorite fruit?\n",
+    "options": [
+      "apple\n",
+      "mango\n",
+      "orange\n",
+      "grapes\n"
+    ]
+  },
+  {
+    "statement": "Your favorite singer?\n",
+    "options": [
+      "Taylor Swift\n",
+      "Eminem\n"
+    ]
+  }
+]
