@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouDecide</string>
+    <string name="title_activity_scanner">scannerActivity</string>
+</resources>
